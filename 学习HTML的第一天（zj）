@@ -1,0 +1,21 @@
+今天进入了HTML的世界
+HTML（超文本标记语言）
+web标准
+html  结构
+css   表现
+js    行为
+HTML的基本结构
+<!DOCTYPE html>
+<html  lang="en">
+<head>
+	<meta  charset="UTF-8">
+	<mate  name="Viewport" content="width=device-width,  initial-scale=1.0">
+	<mate  http-equiv="X-UA-Compatible"  content="ie=edge">
+	<title>张杰的网页</title>
+</head>
+<body>
+			<h1>写代码是件快乐的事情</h1>
+            
+</body>
+ </html>             
+ 今天学习日志
