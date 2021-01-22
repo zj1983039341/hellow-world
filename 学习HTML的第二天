@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head>
+	<meta  charset="UTF-8">
+	<mate  name="Viewport" content="width=device-width,  initial-scale=1.0">
+	<mate  http-equiv="X-UA-Compatible"  content="ie=edge">
+	<title>张杰的网页</title>
+</head>
+<body id="top">
+			<h1 id="kl">写代码是件快乐的事情</h1>
+            <p>键盘敲烂，工资过万</p> 
+			<img src="QQ图片20201227125858.jpg" title="我的名字叫张杰"/>
+			<p>width是图片的宽</p>
+			<img src="QQ图片20201227125858.jpg" title="我的名字叫张杰"  width="500"/>
+            <h4>1.外部连接</h4>
+			<a href="http://www.qq.com" target="_blank">腾讯</a>
+			<p>target 打开窗口的方式  默认的值是_self 当前窗口打开页面  _blank 新的窗口打开页面</p>
+			<h4>2.内部链接</h4>
+			<a href="02-第一个页面.html" target="_blank">第一个页面</a>
+			<h4>3.空链接#</h4>
+			<a href="#">空链接</a>
+			<h4>4.下载链接</h4>
+			<a href="QQ图片20201227125858.zip">下载文件</a>
+			<h4>5.网页元素的链接</h4>
+			<a href="http://www.baidu.com" target="_blank"><img src="QQ图片20201227125858.jpg"></a>
+			<h4>6.锚点链接，跳转至相应位置</h4>
+			<a href="#kl">什么是快乐的事情</a></br>
+			<a href="#top">返回顶部</a>
+</body>
+ </html>             
+ 今天学习了外部链接和内部链接，空链接，下载链接，瞄点链接
+ 同时学习了如何在网页中插入图片，和一些属性。
+ 今天就学习了这么多明天继续加油
